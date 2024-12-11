@@ -21,14 +21,14 @@ Jurusan : Teknik Informatika <P>
   - __init__: Konstruktor untuk menginisialisasi atribut-atribut mahasiswa dan menghitung nilai akhir.
   - calculate_final_grade: Metode untuk menghitung nilai akhir berdasarkan bobot nilai tugas (30%), uts (35%), dan uas (35%).
 2. Kelas DataMahasiswa
-  - Atribut:
-      - students: Daftar (list) yang menyimpan objek-objek Mahasiswa.
-  - Metode:
-      - tambah_mahasiswa: Menambahkan objek Mahasiswa ke dalam daftar students.
-      - hapus_mahasiswa: Menghapus objek Mahasiswa dari daftar students berdasarkan nama.
-      - ubah_mahasiswa: Mengubah data objek Mahasiswa dalam daftar students berdasarkan nama.
-      - cari_mahasiswa: Mencari indeks dari objek Mahasiswa dalam daftar students berdasarkan nama.
-      - tampilkan_mahasiswa: Mengembalikan daftar objek Mahasiswa yang ada dalam students.
+- Atribut:
+  - students: Daftar (list) yang menyimpan objek-objek Mahasiswa.
+- Metode:
+  - tambah_mahasiswa: Menambahkan objek Mahasiswa ke dalam daftar students.
+  - hapus_mahasiswa: Menghapus objek Mahasiswa dari daftar students berdasarkan nama.
+  - ubah_mahasiswa: Mengubah data objek Mahasiswa dalam daftar students berdasarkan nama.
+  - cari_mahasiswa: Mencari indeks dari objek Mahasiswa dalam daftar students berdasarkan nama.
+  - tampilkan_mahasiswa: Mengembalikan daftar objek Mahasiswa yang ada dalam students.
 
 
 
