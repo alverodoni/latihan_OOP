@@ -40,7 +40,13 @@ Jurusan : Teknik Informatika <P>
     @staticmethod
     def input_data():
   - Metode Statis: Metode ini ditandai dengan dekorator @staticmethod, yang berarti metode ini tidak membutuhkan akses ke instance kelas dan dapat dipanggil langsung dari kelasnya.
-- 
+- Pengambilan Input:
+    nim = input("NIM: ")
+    nama = input("Nama: ")
+    tugas = int(input("Nilai Tugas: "))
+    uts = int(input("Nilai UTS: "))
+    uas = int(input("Nilai UAS: "))
+
 
 
 
