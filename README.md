@@ -57,7 +57,10 @@ Jurusan : Teknik Informatika <P>
   - tugas: Mengambil input Nilai Tugas dari pengguna, dan mengkonversi input tersebut ke tipe integer.
   - uts: Mengambil input Nilai Ujian Tengah Semester dari pengguna, dan mengkonversi input tersebut ke tipe integer.
   - uas: Mengambil input Nilai Ujian Akhir Semester dari pengguna, dan mengkonversi input tersebut ke tipe integer.
+- Mengembalikan Nilai:
 
+      return nim, nama, tugas, uts, uas
+  - Metode ini mengembalikan nilai-nilai yang telah diinput sebagai tuple.
 
 
 
