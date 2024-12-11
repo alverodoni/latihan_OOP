@@ -36,6 +36,13 @@ Jurusan : Teknik Informatika <P>
 - Deklarasi Kelas:
     class InputForm:
   - Ini mendefinisikan kelas InputForm.
+- Metode Statis input_data:
+    @staticmethod
+    def input_data():
+  - Metode Statis: Metode ini ditandai dengan dekorator @staticmethod, yang berarti metode ini tidak membutuhkan akses ke instance kelas dan dapat dipanggil langsung dari kelasnya.
+- 
+
+
 
 
 ![gambar5](https://github.com/user-attachments/assets/3e561722-e7e3-4fb9-a84d-4ab6468cd5c5)
