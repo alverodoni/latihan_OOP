@@ -11,15 +11,15 @@ Jurusan : Teknik Informatika <P>
 ## Penjelasan 
 1. kelas mahasiswa
 - Atribut:
-            - nim: Nomor Induk Mahasiswa.
-            - nama: Nama mahasiswa.
-            - tugas: Nilai tugas mahasiswa.
-            - uts: Nilai Ujian Tengah Semester.
-            - uas: Nilai Ujian Akhir Semester.
-            - akhir: Nilai akhir yang dihitung dari nilai tugas, uts, dan uas.
+  - nim: Nomor Induk Mahasiswa.
+  - nama: Nama mahasiswa.
+  - tugas: Nilai tugas mahasiswa.
+  - uts: Nilai Ujian Tengah Semester.
+  - uas: Nilai Ujian Akhir Semester.
+  - akhir: Nilai akhir yang dihitung dari nilai tugas, uts, dan uas.
 - Metode:
-      - __init__: Konstruktor untuk menginisialisasi atribut-atribut mahasiswa dan menghitung nilai akhir.
-      - calculate_final_grade: Metode untuk menghitung nilai akhir berdasarkan bobot nilai tugas (30%), uts (35%), dan uas (35%).
+  - __init__: Konstruktor untuk menginisialisasi atribut-atribut mahasiswa dan menghitung nilai akhir.
+  - calculate_final_grade: Metode untuk menghitung nilai akhir berdasarkan bobot nilai tugas (30%), uts (35%), dan uas (35%).
 2. Kelas DataMahasiswa
   - Atribut:
       - students: Daftar (list) yang menyimpan objek-objek Mahasiswa.
