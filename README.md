@@ -30,9 +30,14 @@ Jurusan : Teknik Informatika <P>
   - cari_mahasiswa: Mencari indeks dari objek Mahasiswa dalam daftar students berdasarkan nama.
   - tampilkan_mahasiswa: Mengembalikan daftar objek Mahasiswa yang ada dalam students.
 
-
-
+## Penjelasan Input_form
 ![gambar4](https://github.com/user-attachments/assets/9e70e124-e75b-4f2b-972f-3e5058cedeea)
+1. Kelas InputForm
+- Deklarasi Kelas:
+    class InputForm:
+  - Ini mendefinisikan kelas InputForm.
+
+
 ![gambar5](https://github.com/user-attachments/assets/3e561722-e7e3-4fb9-a84d-4ab6468cd5c5)
 ![gambar6](https://github.com/user-attachments/assets/a861c2b7-6733-4628-b115-06d4d45b219f)
 
