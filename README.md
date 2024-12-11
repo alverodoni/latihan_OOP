@@ -8,7 +8,7 @@ Jurusan : Teknik Informatika <P>
 
 ## clas_mahasiswa
 ![gambar3](https://github.com/user-attachments/assets/45a34131-9a4b-4b86-a55c-dae052829e2b)
-## Penjelasan 
+## Penjelasan clas_mahasiswa
 1. kelas mahasiswa
 - Atribut:
   - nim: Nomor Induk Mahasiswa.
