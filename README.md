@@ -34,6 +34,8 @@ Jurusan : Teknik Informatika <P>
 ![gambar4](https://github.com/user-attachments/assets/9e70e124-e75b-4f2b-972f-3e5058cedeea)
 1. Kelas InputForm
 - Deklarasi Kelas:
+
+  
     class InputForm:
   - Ini mendefinisikan kelas InputForm.
 - Metode Statis input_data:
