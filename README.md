@@ -95,7 +95,7 @@ Jurusan : Teknik Informatika <P>
        print(f"{'NIM':<10} {'Nama':<20} {'Tugas':<6} {'UTS':<4} {'UAS':<4} {'Akhir':<5}")
        print("=" * 50)
        for mahasiswa in mahasiswa_list:
-       print(f"{mahasiswa.nim:<10} {mahasiswa.nama:<20} {mahasiswa.tugas:<6} {mahasiswa.uts:<4} {mahasiswa.uas:<4} {mahasiswa.akhir:<5}")
+           print(f"{mahasiswa.nim:<10} {mahasiswa.nama:<20} {mahasiswa.tugas:<6} {mahasiswa.uts:<4} {mahasiswa.uas:<4} {mahasiswa.akhir:<5}")
        print("=" * 50)
    - Menampilkan Header: Menampilkan judul dan header tabel yang memuat kolom NIM, Nama, Tugas, UTS, UAS, dan Akhir.
    - Looping Melalui Daftar Mahasiswa: Menggunakan loop for untuk menampilkan setiap mahasiswa dalam daftar dengan format yang rapi.
@@ -154,13 +154,13 @@ Jurusan : Teknik Informatika <P>
 
 
        while True:
-        print("\nMenu:")
-        print("(T)ambah")
-        print("(L)ihat")
-        print("(U)bah")
-        print("(H)apus")
-        print("(K)eluar")
-        pilihan = input("Pilih: ").lower()
+           print("\nMenu:")
+           print("(T)ambah")
+           print("(L)ihat")
+           print("(U)bah")
+           print("(H)apus")
+           print("(K)eluar")
+           pilihan = input("Pilih: ").lower()
    -Menampilkan menu utama dan meminta input pilihan dari pengguna.
 
 5. Menangani Pilihan Pengguna:
